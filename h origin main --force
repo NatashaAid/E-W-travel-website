@@ -1,0 +1,36 @@
+[33mcommit a63288b3b2b26327cb3a00345275de35c972334e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: dde89e7 5f1a07a
+Author: NatashaAid <natasha.aidomon@gmail.com>
+Date:   Mon Dec 16 01:30:39 2024 +0000
+
+    Add active navigation highlight
+
+[33mcommit dde89e72cefb235d38f3b357243567aef2658030[m
+Author: NatashaAid <natasha.aidomon@gmail.com>
+Date:   Mon Dec 16 01:08:37 2024 +0000
+
+    Fix deployment and 404 error
+
+[33mcommit 5f1a07ad101391338c60f46ad5258f1be47830e1[m
+Author: NatashaAid <natasha.aidomon@gmail.com>
+Date:   Mon Dec 16 01:07:03 2024 +0000
+
+    Rename travelwebsite.html to index.html
+
+[33mcommit d4e5977676a8572dd67769eadac20f0356195729[m
+Author: NatashaAid <natasha.aidomon@gmail.com>
+Date:   Mon Dec 16 00:40:28 2024 +0000
+
+    Your commit message describing changes
+
+[33mcommit 158d09f5180079f7ccdbcf2afb82c4c1055e28d4[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: NatashaAid <natasha.aidomon@gmail.com>
+Date:   Fri Aug 30 00:50:51 2024 +0100
+
+    Remove Frame2.png from the project
+
+[33mcommit 48b85270dd6c9e1a1d872728638df97fe3f54bff[m
+Author: NatashaAid <natasha.aidomon@gmail.com>
+Date:   Fri Aug 30 00:15:14 2024 +0100
+
+    Initial commit with project files
