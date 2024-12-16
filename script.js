@@ -7,3 +7,10 @@ document.querySelectorAll('.nav-links a').forEach(anchor => {
         targetSection.scrollIntoView({ behavior: 'smooth' });
     });
 });
+
+document.querySelectorAll('.nav-links a').forEach(anchor => {
+    anchor.addEventListener('click', () => {
+        document.querySelectorAll('.nav-links a').forEach(link => link.classList.remove('active'));
+        anchor.classList.add('active');
+    });
+});

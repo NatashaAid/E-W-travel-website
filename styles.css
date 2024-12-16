@@ -35,6 +35,11 @@ header {
     font-weight: 500;
 }
 
+.nav-links a.active {
+    color: #6e0299;
+    font-weight: bold;
+}
+
 .E-W {
     font-size: 24px;
     font-weight: normal;
